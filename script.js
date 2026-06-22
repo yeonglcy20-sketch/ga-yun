@@ -1,8 +1,6 @@
 const SHEET_ID='12sl4qtRuxadkUYeF7KIFEiBPxfnyotkAbh0zoiShvcQ';
 const SHEET_NAME='시트1';
-const csvUrl="https://docs.google.com/spreadsheets/d/1HLhGIZRWLZUwtHCKeqv5-VF34Gf_vJbHi6iEoIXE6p0/gviz/tq?tqx=out:csv";
-
-const listEl=document.getElementById('list');
+const csvUrl=`https://docs.google.com/spreadsheets/d/1HLhGIZRWLZUwtHCKeqv5-VF34Gf_vJbHi6iEoIXE6p0'list');
 const searchInput=document.getElementById('searchInput');
 
 let data=[];
